@@ -4,7 +4,7 @@
     const link = document.createElement('link');
     link.id = 'chatbot-style';
     link.rel = 'stylesheet';
-    link.href = 'https://cdn.jsdelivr.net/gh/yourusername/chatbot-widget/bot.css';
+    link.href = 'https://cdn.jsdelivr.net/gh/TenuraPasandul/servicemate-bot/bot.css';
     document.head.appendChild(link);
   }
 
